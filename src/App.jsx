@@ -743,7 +743,7 @@ function App() {
                   <i className="bi bi-facebook"></i>
                 </a>
 
-                <a href="#">
+                <a href="https://www.instagram.com/nexota_technologies?igsh=NHI2cGdpd2Qzdm01">
                   <i className="bi bi-instagram"></i>
                 </a>
 
